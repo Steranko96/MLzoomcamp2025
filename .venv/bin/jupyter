@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' "/Users/tategraham/Documents/ML Zoomcamp/.venv/bin/python" "$0" "$@"
-' '''
+#!/Users/tategraham/Documents/MLzoomcamp2025/.venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys

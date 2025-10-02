@@ -29,7 +29,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/tategraham/Documents/ML Zoomcamp/.venv"
+set -gx VIRTUAL_ENV "/Users/tategraham/Documents/MLzoomcamp2025/.venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
